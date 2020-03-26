@@ -1,0 +1,18 @@
+?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote
+        name="github"
+        fetch="https://github.com" />
+    <default
+        remote="github"
+        revision="master"
+        sync-j="4" />
+
+    <!-- git repository for repo -->
+    <project path="googlesamples_repo" name="yongce/googlesamples" />
+
+    <!-- Google samples projects -->
+    <project path="android-custom-lint-rules" name="googlesamples/android-custom-lint-rules" />
+    <project path="testing-samples" name="android/testing-samples" />
+
+</manifest>
