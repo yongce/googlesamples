@@ -11,8 +11,25 @@
     <!-- git repository for repo -->
     <project path="googlesamples_repo" name="yongce/googlesamples" />
 
-    <!-- Google samples projects -->
+    <!-- Quality & Performance -->
     <project path="android-custom-lint-rules" name="googlesamples/android-custom-lint-rules" />
     <project path="testing-samples" name="android/testing-samples" />
+    <project path="android-testing-templates" name="googlesamples/android-testing-templates" />
+    <project path="performance-samples" name="android/performance-samples" />
 
+    <!-- System & Architecture -->
+    <project path="architecture-components-samples" name="android/architecture-components-samples" />
+    <project path="architecture-samples" name="android/architecture-samples" />
+    <project path="easypermissions" name="googlesamples/easypermissions" />
+    <project path="android-dynamic-code-loading" name="googlesamples/android-dynamic-code-loading" />
+    <project path="storage-samples" name="android/storage-samples" />
+    <project path="security-samples" name="android/security-samples" />
+    <project path="ndk-samples" name="android/ndk-samples" />
+
+    <!-- UI -->
+    <project path="user-interface-samples" name="android/user-interface-samples" />
+    <project path="graphics-samples" name="android/graphics-samples" />
+    <project path="sunflower" name="android/sunflower" />
+    <project path="topeka" name="android/topeka" />
+    <project path="animation-samples" name="android/animation-samples" />
 </manifest>
