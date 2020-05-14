@@ -9,7 +9,7 @@
         sync-j="4" />
 
     <!-- git repository for repo -->
-    <project path="googlesamples_repo" name="yongce/googlesamples" />
+    <project path="repo_manifest" name="yongce/googlesamples" />
 
     <!-- Quality & Performance -->
     <project path="android-custom-lint-rules" name="googlesamples/android-custom-lint-rules" />
@@ -32,4 +32,8 @@
     <project path="sunflower" name="android/sunflower" />
     <project path="topeka" name="android/topeka" />
     <project path="animation-samples" name="android/animation-samples" />
+
+    <!-- others -->
+    <project path="plaid" name="android/plaid" />
+    <project path="iosched" name="google/iosched" />
 </manifest>
